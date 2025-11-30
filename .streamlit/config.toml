@@ -1,0 +1,5 @@
+[global]
+email = ""
+
+[browser]
+gatherUsageStats = false

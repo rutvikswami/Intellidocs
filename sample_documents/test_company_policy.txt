@@ -1,0 +1,144 @@
+TECHCORP EMPLOYEE BENEFITS & POLICIES MANUAL
+Version 3.2 | Effective January 2024
+
+SECTION A: HEALTH INSURANCE COVERAGE
+TechCorp provides comprehensive health insurance through BlueCross BlueShield Premium Plan.
+
+Coverage Details:
+- Employee premium contribution: 15% of total cost
+- Company covers 85% of premium costs
+- Annual deductible: $1,500 for individual, $3,000 for family
+- Out-of-pocket maximum: $6,000 individual, $12,000 family
+- In-network copay: $25 primary care, $45 specialist
+- Emergency room visit: $200 copay
+- Prescription coverage: $10 generic, $35 brand name, $70 specialty drugs
+
+Enrollment Period: Open enrollment occurs every November for following year coverage.
+New employees have 30 days from start date to enroll.
+
+SECTION B: VACATION AND TIME OFF POLICY
+TechCorp operates on an accrual-based vacation system.
+
+Vacation Accrual Rates:
+- Years 0-2: 15 vacation days annually (1.25 days per month)
+- Years 3-7: 20 vacation days annually (1.67 days per month)  
+- Years 8+: 25 vacation days annually (2.08 days per month)
+
+Additional Time Off:
+- Sick leave: 12 days annually (do not carry over)
+- Personal days: 3 floating holidays per year
+- Bereavement leave: Up to 5 days for immediate family
+- Jury duty: Fully paid time off as needed
+- Parental leave: 16 weeks paid for primary caregiver, 8 weeks for secondary
+
+Vacation Rules:
+- Maximum carryover: 40 hours to next calendar year
+- Vacation requests require 2 weeks advance notice for trips over 5 days
+- Blackout periods: Last 2 weeks of December and first week of January
+- Manager approval required for all time off
+
+SECTION C: REMOTE WORK GUIDELINES
+TechCorp supports hybrid work arrangements for eligible positions.
+
+Eligibility Requirements:
+- Employee must have completed 6 months of successful employment
+- Role must be designated as "remote-eligible" by department head
+- Employee must maintain home workspace meeting company standards
+- Reliable high-speed internet connection required (minimum 50 Mbps)
+
+Remote Work Schedule:
+- Maximum 3 days per week remote work
+- Core collaboration hours: 10 AM - 3 PM Eastern Time (must be available)
+- Required in-office days: Tuesdays and Thursdays (subject to team needs)
+- Monthly all-hands meetings must be attended in person
+
+Technology Provision:
+- Company laptop (MacBook Pro or Dell XPS, employee choice)
+- External monitor (24-inch, upon request)
+- Wireless mouse and keyboard
+- $300 annual home office stipend for ergonomic equipment
+- VPN access and security software provided
+
+Performance Requirements:
+- Maintain same productivity standards as in-office work
+- Weekly one-on-one meetings with direct manager (video required)
+- Bi-weekly team check-ins and project updates
+- Quarterly performance reviews (no change from standard process)
+
+SECTION D: PROFESSIONAL DEVELOPMENT SUPPORT
+TechCorp invests in employee growth through various learning opportunities.
+
+Annual Learning Budget:
+- Individual contributor: $2,500 per calendar year
+- Senior level (5+ years): $3,500 per calendar year
+- Management level: $4,500 per calendar year
+
+Approved Learning Activities:
+- Industry conferences and workshops
+- Online course platforms (Coursera, Udemy, Pluralsight)
+- Professional certifications (AWS, Google Cloud, Microsoft, etc.)
+- University courses related to role
+- Technical books and training materials
+
+Reimbursement Process:
+- Pre-approval required from direct manager
+- Submit receipts within 60 days of completion
+- Course completion certificate required for reimbursement
+- Unused budget does not roll over to following year
+
+Conference Travel:
+- Economy airfare and reasonable hotel accommodations covered
+- Per diem for meals: $75/day domestic, $100/day international
+- Ground transportation: Uber/taxi receipts or mileage reimbursement
+
+SECTION E: COMPANY EQUIPMENT POLICY
+All company equipment remains property of TechCorp and must be returned upon termination.
+
+Standard Equipment Assignment:
+- Primary laptop (refreshed every 3 years)
+- Smartphone (iPhone or Android, employee preference)
+- Headset for video calls
+- Desk accessories (monitor, keyboard, mouse)
+
+Personal Use Guidelines:
+- Limited personal use permitted during breaks and lunch
+- No installation of unauthorized software
+- Regular security updates and patches required
+- Lost or damaged equipment may result in replacement charges
+
+Equipment Return:
+- All equipment must be returned on last day of employment
+- IT department will perform data wiping and security clearance
+- Failure to return equipment may result in payroll deduction
+- Personal files should be backed up prior to equipment return
+
+SECTION F: PERFORMANCE REVIEW PROCESS
+TechCorp conducts formal performance reviews on an annual cycle.
+
+Review Timeline:
+- Annual reviews completed by March 31st each year
+- Mid-year check-ins scheduled for August
+- New employee reviews at 90 days and 6 months
+- Promotion reviews conducted quarterly
+
+Review Components:
+- Self-assessment (employee completes first)
+- Manager evaluation and feedback
+- 360-degree feedback from peers (optional for senior levels)
+- Goal setting for upcoming year
+- Professional development planning
+
+Performance Ratings:
+- Exceeds Expectations: Top 10% of performers, eligible for promotion
+- Meets Expectations: Solid performance, meets all job requirements
+- Needs Improvement: Performance issues identified, improvement plan required
+- Unsatisfactory: Serious performance deficiencies, may result in termination
+
+Salary Review Process:
+- Merit increases range from 2-8% based on performance and market analysis
+- Promotion increases range from 8-15% depending on role change
+- Cost of living adjustments separate from merit increases
+- Bonus eligibility tied to both individual and company performance
+
+Contact Information:
+For questions about this manual, contact People Operations at people@techcorp.com or call ext. 4567.

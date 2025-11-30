@@ -1,0 +1,11 @@
+# Core dependencies for IntelliDocs
+streamlit
+PyPDF2
+python-docx
+sentence-transformers
+google-generativeai
+numpy
+python-dotenv
+
+# Optional - for enhanced logging and analytics
+supabase
